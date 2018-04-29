@@ -1,8 +1,8 @@
 Step 1)
-npm install for installing all dependendies.
+npm install for installing all dependencies.
 
 Step 2) 
-open cmd and type "node server.js" for starting the server.
+open cmd at the project location and type "node server.js" for starting the server.
 
 Step 3)
 Open your browser and type the following URL:
@@ -13,3 +13,4 @@ a) For Extracting details of a bank using IFSC code
 b) For extracting details of a all the same bank when bank name and city name is given.
 ->  http://localhost:3000/branchesfromnameandcity?city=<city>&name=<bank name>
 // without <>
+
