@@ -11,4 +11,5 @@ a) For Extracting details of a bank using IFSC code
 ->   http://localhost:3000/branchfromifsc?ifsc=<ifsc code>
   // without <>
 b) For extracting details of a all the same bank when bank name and city name is given.
-->  http://localhost:3000/branchesfromnameandcity?city=MIDNAPORE&name=STATE%20BANK%20OF%20INDIA 
+->  http://localhost:3000/branchesfromnameandcity?city=<city>&name=<bank name>
+// without <>
